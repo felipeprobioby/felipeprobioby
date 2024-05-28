@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vimdas ao meu perfl 💙
 
-<!--
-**felipeprobioby/felipeprobioby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é felipe bueno
 
-Here are some ideas to get you started:
+-estou estudando na [alura](httl
+-Estou me desnvolvemdo na linguagem javaScript
+-utilizo esse espaço para a minha organização e compaetilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vocé entrar em contato comigp 📫
+
+00001102617179sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/96N43NmM5scAAAAd/red-polo-got-laid.gif)
