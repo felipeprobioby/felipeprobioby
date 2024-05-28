@@ -2,7 +2,7 @@
 
 Meu nome é felipe bueno
 
--estou estudando na [alura](httl
+-estou estudando na [alura](https://www.alura.com.br)
 -Estou me desnvolvemdo na linguagem javaScript
 -utilizo esse espaço para a minha organização e compaetilhamento dos meus projetos desenvolvidos
 
